@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "Alice in Wonderland"
-subtitle:   "Lewis Carroll"
+title:      "Изложба в Националния музей"
+subtitle:   "Exhibition in National Museum"
 active: journal
 image:
   feature: "pc001.jpg"
