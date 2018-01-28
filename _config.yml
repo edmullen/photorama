@@ -29,9 +29,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://edmullen.github.io/valentin/gallery/"
-  - JOURNAL: "https://edmullen.github.io/valentin/journal/"
-  - ABOUT: "https://edmullen.github.io/valentin/about/"
+  - ГАЛЕРИЯ / GALLERY: "https://edmullen.github.io/valentin/gallery/"
+  - НОВИНИ / NEWS: "https://edmullen.github.io/valentin/news/"
+  - БИОГРАФИЯ / BIOGRAPHY: "https://edmullen.github.io/valentin/biography/"
 
 # All translation keys
 translations:
