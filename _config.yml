@@ -30,7 +30,7 @@ comments :
 # Internal nav
 nav:
   - ГАЛЕРИЯ / GALLERY: "https://edmullen.github.io/valentin/gallery/"
-  - НОВИНИ / NEWS: "https://edmullen.github.io/valentin/news/"
+  - НОВИНИ / NEWS: "https://edmullen.github.io/valentin/journal/"
   - БИОГРАФИЯ / BIOGRAPHY: "https://edmullen.github.io/valentin/biography/"
 
 # All translation keys
