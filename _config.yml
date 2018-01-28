@@ -1,15 +1,12 @@
 # Site settings
-title: Valentin
-email: ""
-description: "Photo Journal"
+title: Valentin Balev
+email: "ed@edmullen.com"
+description: "Website of artist Valentin Balev"
 url: "https://edmullen.github.io"
 baseurl: "/valentin"
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-flickr_username: ""
-discus_shortname: ""
+facebook_username: "bigedmullen"
+twitter_username: "edmullen"
+instagram_username: "edmullen"
 share: true
 
 # Owner/author information
