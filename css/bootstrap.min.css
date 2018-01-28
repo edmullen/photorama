@@ -1467,7 +1467,7 @@ textarea {
 }
 
 a {
-  color: #337ab7;
+  color: #fdc3b0;
   text-decoration: none
 }
 
@@ -1745,7 +1745,7 @@ mark {
 }
 
 .text-muted {
-  color: #777
+  color: #ababab
 }
 
 .text-primary {
@@ -5311,7 +5311,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
   margin: 7.5px -15px;
   overflow-x: hidden;
   float: right;
-  color: white;    
+  color: white;
   background-color: #000;
 }
 
