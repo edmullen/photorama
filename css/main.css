@@ -169,8 +169,8 @@ hr.small {
   font-size: 24px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 300;
+  font-family: 'Lora', Times, serif;
+  font-weight: 400;
   margin: 10px 0 0;
   text-shadow: 1px 1px 4px #000;
 }
