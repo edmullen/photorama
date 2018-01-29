@@ -4,11 +4,11 @@ title: "Multiple Galleries"
 subtitle: "A post with multiple galleries arranged with ISOTOPE"
 active: "journal"
 image:
-  feature: "pc007.jpg"
+  feature: "2016-05.jpg"
 date: "2016-02-01"
 header-img: "img/postcover/pc007.jpg"
 comments: "true"
-gallery1: 
+gallery1:
   - image_path: /img/galleries/g01/bg1.jpg
     image-caption: IMAGE TITLE
     image-copyright: © photorama
@@ -17,8 +17,8 @@ gallery1:
     image-copyright: © photorama
   - image_path: /img/galleries/g01/bg3.jpg
     image-caption: IMAGE TITLE
-    image-copyright: © photorama 
-gallery2: 
+    image-copyright: © photorama
+gallery2:
   - image_path: /img/galleries/g02/bg1.jpg
     image-caption: IMAGE TITLE
     image-copyright: © photorama
@@ -27,7 +27,7 @@ gallery2:
     image-copyright: © photorama
   - image_path: /img/galleries/g02/bg3.jpg
     image-caption: IMAGE TITLE
-    image-copyright: © photorama 
+    image-copyright: © photorama
 ---
 
 
@@ -52,7 +52,7 @@ gallery2:
 
 
            <!-- Gallery __-->
-			
+
 {% include subgallery.html id="gallery1" %}
 
 <!-- end of GALLERY __ -->
@@ -60,7 +60,7 @@ gallery2:
 <p> Add as many galleries as you want, including as many photos as you want. Simply edit the <b>FRONT MATTER</b> of the post, adding the corresponding <b>path</b>, <b>caption</b> and <b>copyright</b> info for each one of your photos. </p>
 
            <!-- Gallery __-->
-			
+
 {% include subgallery.html id="gallery2" %}
 
 <!-- end of GALLERY __ -->

@@ -4,7 +4,7 @@ title:      "Изложба в Националния музей"
 subtitle:   "Exhibition in National Museum"
 active: journal
 image:
-  feature: "pc001.jpg"
+  feature: "2016-05.jpg"
 date:       2016-03-25
 header-img: "img/postcover/pc001.jpg"
 tags: [tag01, tag02]
