@@ -137,8 +137,8 @@
 {
     -webkit-transition: -webkit-box-shadow 0.2s cubic-bezier(0.4, 0.4, 0.4, 0.4, 1);
     transition: box-shadow 0.2s cubic-bezier(0.4, 0.4, 0.4, 0.4, 1);
-    -webkit-box-shadow: 4px 4px 4px 4px rgba(255, 255, 255, 0.8);
-    box-shadow: 4px 4px 24px 4px rgba(255, 255, 255, 0.8);
+    -webkit-box-shadow: 4px 4px 4px 4px rgba(41, 41, 41, 1);
+    box-shadow: 4px 4px 24px 4px rgba(41, 41, 41, 1);
 }
 
 .blockGroup-list .postArticle a
